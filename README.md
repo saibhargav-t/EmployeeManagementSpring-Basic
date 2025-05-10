@@ -202,6 +202,8 @@ spring.data.rest.base-path=/api
 - `GET /api/employees?page=0&size=20` - Pagination support
 - `GET /api/employees?sort=lastName,desc` - Sorting support
 
+Note: Use Postman, Curl or other tools to expose these API's.
+
 ## Key Differences Between Approaches
 
 ### Traditional Controller-Service-Repository
